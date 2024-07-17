@@ -1,15 +1,10 @@
-### Hi there 👋
+### Hi, I'm Dody
 
-My name is Dody Agung Saputro, a fullstack web developer and Fujifilm X-storyteller.
+A backend enthusiast. Loves Golang and Typescript.
 
-I write, code and develop some webs. Fyi, fullstack means working on the backend and frontend. Currently using Laravel while learning component-based Javascript framework. My passion is all about information technology and I'm an Apple lover. Has a side hobby as a photographer and videographer. Fujifilm is my first camera and the one I'm wearing right now. Loves street & human interest photography, and also cinematic videography.
-
-If you wanna get in touch with me, just say ‘Hi’ to my social media above. For private affairs or business needs, you can drop me an email at hello@dodyagung.com or visit my website at [www.dodyagung.com](https://www.dodyagung.com).
-
-Happy stalking!
-
-&nbsp;
+Visit my website at [dodyagung.com](https://dodyagung.com)
+___
 
 ![Dody's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyagung&layout=compact)
 
-![Dody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodyagung&count_private=true&show_icons=true)
+![Dody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodyagung&hide_rank=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
