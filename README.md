@@ -1,8 +1,8 @@
 # Hi, I'm Dody
 
-A backend enthusiast. Loves Golang and Typescript.
+**A backend enthusiast. Loves Golang and Typescript.**
 
-Visit my website at [dodyagung.com](https://dodyagung.com)
+Visit my website at [dodyagung.com](https://dodyagung.com).
 ___
 
 ![Dody's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodyagung&layout=compact)
