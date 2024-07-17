@@ -1,4 +1,4 @@
-### Hi, I'm Dody
+# Hi, I'm Dody
 
 A backend enthusiast. Loves Golang and Typescript.
 
